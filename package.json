@@ -1,5 +1,9 @@
 {
 	"author": "Manoranjan Sahoo",
+	"description":"Learning new stuff",
+	"keywords": ["node","api","microservices"],
+	"license": "MIT",
+	"version": "1",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
